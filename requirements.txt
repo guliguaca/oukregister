@@ -1,0 +1,5 @@
+curl-cffi
+requests
+aiohttp
+keyid
+cryptography
